@@ -4,4 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/1be109d1b68643de41c6/maintainability)](https://codeclimate.com/github/MaxOdinokiy/python-project-lvl1/maintainability)
 
 
-[https://asciinema.org/a/I7FIqqV33fUAAIcuuzxNzHcPQ]
+brain-even: https://asciinema.org/a/I7FIqqV33fUAAIcuuzxNzHcPQ
+
+brain-calc: https://asciinema.org/a/hkErVYKO9q9wPyUcvuZg0VgRE
+
