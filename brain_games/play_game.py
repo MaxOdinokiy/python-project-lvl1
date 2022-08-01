@@ -20,4 +20,4 @@ def play(game):
             print(f"Let's try again, {user_name}")
             break
     else:
-        print(f'Congratulations, {user_name}')
+        print(f'Congratulations, {user_name}!')
