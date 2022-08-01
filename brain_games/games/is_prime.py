@@ -1,12 +1,12 @@
 import random
-from turtle import right
 
-GAME_DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+GAME_DESCRIPTION = '''
+Answer "yes" if given number is prime. Otherwise answer "no".'''
 
 
 def get_question_answer():
     question = random.randrange(100)
-    right_answer = 'yes' if is_prime(question) else 'no' 
+    right_answer = 'yes' if is_prime(question) else 'no'
     return question, right_answer
 
 
