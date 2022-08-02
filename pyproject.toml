@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "MO_brain-games"
+name = "hexlet-code"
 version = "0.7.0"
 description = ""
 authors = ["Max Odinokiy <max.odinokiy@gmail.com>"]
