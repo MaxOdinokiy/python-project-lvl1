@@ -3,6 +3,14 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/1be109d1b68643de41c6/maintainability)](https://codeclimate.com/github/MaxOdinokiy/python-project-lvl1/maintainability)
 
+#Brain-games
+
+###5 fascinating games to check your math abilities. 
+
+## Install
+
+pip install mo-brain-games
+
 
 brain-even: https://asciinema.org/a/I7FIqqV33fUAAIcuuzxNzHcPQ
 
