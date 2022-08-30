@@ -12,12 +12,12 @@
 pip install mo-brain-games
 
 
-brain-even: https://asciinema.org/a/I7FIqqV33fUAAIcuuzxNzHcPQ
+brain-even: https://asciinema.org/a/0BWk6q6HqakR2jcTaoe3pF5Dy
 
-brain-calc: https://asciinema.org/a/hkErVYKO9q9wPyUcvuZg0VgRE
+brain-calc: https://asciinema.org/a/6MrJuJwrsSTxC2W8Uy0I4jT1P
 
-brain-gcd: https://asciinema.org/a/7h8p3SC32zNq8yV56nOlQs6JD
+brain-gcd: https://asciinema.org/a/WHKlm2YpzBIJW7uEgykeUm2UU
 
-brain-progression: https://asciinema.org/a/S6kXj1DXjMmpTsm1c1989xVSK
+brain-progression: https://asciinema.org/a/5GVGJ8aIDiU1yTJvLb25QpQfA
 
-brain-prime: https://asciinema.org/a/J0ZE9P8YgFbCnOvH4FfAokLGs
+brain-prime: https://asciinema.org/a/kg2gTX19qRidYhB7hGXUJtx82
